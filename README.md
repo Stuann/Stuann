@@ -3,9 +3,9 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gian-stuan/)
 
-#### Aqui você encontra alguns projetos desevolvidos por mim e tambem materiais de estudos que utilizo na minha vida academica. 
+ #### 👇 Aqui você encontra alguns projetos desevolvidos por mim e tambem materiais de estudos que utilizo na minha vida academica. 👇
 
-👇 ![Stuann GitHub stats](https://github-readme-stats.vercel.app/api?username=Stuann&show_icons=true&theme=transparent)  👇
+![Stuann GitHub stats](https://github-readme-stats.vercel.app/api?username=Stuann&show_icons=true&theme=transparent)  
 
 ## Tecnologias que eu uso no meu dia
 <div style ="display: inline_bloc"><br/>
