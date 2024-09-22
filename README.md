@@ -3,7 +3,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gian-stuan/)
 
- #### 👇 Aqui você encontra alguns projetos desevolvidos por mim e também materiais de estudos que utilizo na minha vida acadêmica. 👇
+ #### 👇Aqui você encontra alguns projetos desevolvidos por mim e também materiais de estudos que utilizo na minha vida acadêmica.👇
 
 ![Stuann GitHub stats](https://github-readme-stats.vercel.app/api?username=Stuann&show_icons=true&theme=transparent)  
 
