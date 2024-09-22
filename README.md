@@ -1,12 +1,11 @@
 ### Olá, eu sou o Gian Stuan 🖐️
-#### Apaixonado por tecnologia e negócios, sou pós-graduado em Gestão de Negócios pela USP / ESAQL, e atualmente sou estudante de Ciência de Dados para Négocios na Faculdade FATEC/Votorantim e tambem aluno de Análise e desenvolvimento de sistemas pela Faculdade FACENS/Sorocaba.
-
-#### Aqui você encontra alguns projetos desevolvidos por mim e tambem materiais de estudos que utilizo na minha vida academica.
-
+#### Apaixonado por tecnologia e negócios, tenho entusiasmo por simplificar processos complexos, agregar valor para negócios através de análises de dados, entregar soluções de alta qualidade e compartilhar conhecimento. sou pós-graduado em Gestão de Negócios pela USP / ESAQL, e atualmente sou estudante de Ciência de Dados para Négocios na Faculdade FATEC/Votorantim e tambem aluno de Análise e desenvolvimento de sistemas pela Faculdade FACENS/Sorocaba.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gian-stuan/)
 
-![Stuann GitHub stats](https://github-readme-stats.vercel.app/api?username=Stuann&show_icons=true&theme=transparent)
+#### Aqui você encontra alguns projetos desevolvidos por mim e tambem materiais de estudos que utilizo na minha vida academica. 
+
+👇 ![Stuann GitHub stats](https://github-readme-stats.vercel.app/api?username=Stuann&show_icons=true&theme=transparent)  👇
 
 ## Tecnologias que eu uso no meu dia
 <div style ="display: inline_bloc"><br/>
@@ -18,4 +17,3 @@
 <img align="center"  alt="html5"src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 <div/><br/>
   
-#### Apaixonado por simplificar processos complexos, agregar valor para negócios através de análises de dados, entregar soluções de alta qualidade e compartilhar conhecimento.
