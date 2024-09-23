@@ -1,5 +1,5 @@
 ### Olá, eu sou o Gian Stuan 🖐️
-#### Apaixonado por tecnologia e negócios, tenho entusiasmo por simplificar processos complexos, agregar valor para negócios através de análises de dados, entregar soluções de alta qualidade e compartilhar conhecimento. Sou pós-graduado em Gestão de Negócios pela USP / ESALQ, e atualmente sou estudante de Ciência de Dados para Négocios na Faculdade FATEC/Votorantim e também aluno de Análise e Desenvolvimento de Sistemas pela Faculdade FACENS/Sorocaba.
+#### Pós-graduado em Gestão de Negócios pela USP / ESALQ, e estudante de Ciência de Dados para Négocios na Faculdade FATEC/Votorantim e também aluno de Análise e Desenvolvimento de Sistemas pela Faculdade FACENS/Sorocaba.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gian-stuan/)
 
